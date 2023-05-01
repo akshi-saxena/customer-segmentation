@@ -3,6 +3,8 @@ Aim is to separate customers into groups that reflect similarities among custome
 
 Data Source: Kaggle (https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
 
+Report: https://drive.google.com/file/d/1wfmUFEluscXX3ihzQiFj9-o94up36eVg/view?usp=sharing
+
 Steps:
 - Preprocessing: Impute missing data
 - Conducted extensive data analysis to identify the most important features in the dataset.
